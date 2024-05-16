@@ -1,2 +1,26 @@
 [
+	{
+		"file": "C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\Source\\Platformer2D01_Proj\\Platformer2D01_Proj.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\.vscode\\compileCommands_Default\\Platformer2D01_Proj.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\Source\\Platformer2D01_Proj\\Platformer2D01_Proj.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\.vscode\\compileCommands_Default\\Platformer2D01_Proj.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\Source\\Platformer2D01_Proj\\Platformer2D01_Proj.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Dev\\Unreal-Projects\\Platformer2D01\\Platformer2D01_Proj\\.vscode\\compileCommands_Default\\Platformer2D01_Proj.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
 ]
